@@ -40,5 +40,5 @@ npm run dev
 
 | Name        | Role                  | GitHub Profile                                           |
 |-------------|-----------------------|----------------------------------------------------------|
-| Balaji T S  | Frontend Developer    | [@Balaji-TS-21](https://github.com/Balaji-TS-21)         |
-| Balzandras  | Contributor / Support | [@Balzandras](https://github.com/Balzandras)             |
+| Balaji T S  | ReactJS Intern        | [@Balaji-TS-21](https://github.com/Balaji-TS-21)         |
+| Siva Sai    | ReactJS Intern        | [@sivasai748](https://github.com/sivasai748)             |
