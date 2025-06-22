@@ -1,35 +1,35 @@
-### <h1 align="center">🌿 Springreen</h1> <br>
+# <h1 align="center">🌿 Springreen</h1> <br>
 
 
 This is the official frontend project for **Springreen** — a platform that helps streamline eco-friendly services (or business-specific description, you can customize this line).
 
 <br>
 
-### 📦 How to Run Locally
+## 📦 How to Run Locally
 
 Follow the steps below to set up and run the project on your local machine.
 
-## 🔁 Clone the Repository
+### 🔁 Clone the Repository
 
 ```bash
 git clone https://github.com/Balaji-TS-21/SpringreenWeb.git
 cd SpringreenWeb
 ```  
 
-## 📥 Install Dependencies
+### 📥 Install Dependencies
 ```bash
 npm install
 ```
 
 
-## ▶️ Start the Development Server
+### ▶️ Start the Development Server
 ```bash
 npm run dev
 ```
 
 <br>
 
-### ⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 - 🧠 React.js – Frontend UI framework
 
@@ -43,7 +43,7 @@ npm run dev
   
 <br>
 
-### 👨‍💻 Collaborators
+## 👨‍💻 Collaborators
 
 | Name        | Role                  | GitHub Profile                                           |
 |-------------|-----------------------|----------------------------------------------------------|
