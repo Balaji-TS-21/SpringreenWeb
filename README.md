@@ -4,7 +4,7 @@
 
 This is the official frontend project for **Springreen** — a platform that helps streamline eco-friendly services (or business-specific description, you can customize this line).
 
-  
+<br>
 
 ### 📦 How to Run Locally
 
@@ -17,21 +17,21 @@ git clone https://github.com/Balaji-TS-21/SpringreenWeb.git
 cd SpringreenWeb
 ```
 
-  
+<br>  
 
 ### 📥 Install Dependencies
 ```bash
 npm install
 ```
 
-  
+<br>
 
 ### ▶️ Start the Development Server
 ```bash
 npm run dev
 ```
 
-  
+<br>
 
 ### ⚙️ Technologies Used
 
@@ -45,7 +45,7 @@ npm run dev
 
 - 🧾 Axios – API requests
   
-  
+<br>
 
 ### 👨‍💻 Collaborators
 
