@@ -28,13 +28,13 @@ npm run dev
 ### ⚙️ Technologies Used
 🧠 React.js – Frontend UI framework
 
-** 🛠️ Vite – Fast build tool
+- 🛠️ Vite – Fast build tool
 
-** 💅 Tailwind CSS – Utility-first CSS framework
+- 💅 Tailwind CSS – Utility-first CSS framework
 
-** 🔗 React Router – Routing
+- 🔗 React Router – Routing
 
-** 🧾 Axios – API requests
+- 🧾 Axios – API requests
 
 ### 👨‍💻 Collaborators
 
