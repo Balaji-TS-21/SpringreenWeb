@@ -8,20 +8,20 @@ This is the official frontend project for **Springreen** — a platform that hel
 
 Follow the steps below to set up and run the project on your local machine.
 
-### 🔁 Clone the Repository
+#### 🔁 Clone the Repository
 
 ```bash
 git clone https://github.com/Balaji-TS-21/SpringreenWeb.git
 cd SpringreenWeb
 ```  
 
-### 📥 Install Dependencies
+#### 📥 Install Dependencies
 ```bash
 npm install
 ```
 
 
-### ▶️ Start the Development Server
+#### ▶️ Start the Development Server
 ```bash
 npm run dev
 ```
