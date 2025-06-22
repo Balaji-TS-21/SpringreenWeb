@@ -26,7 +26,8 @@ npm run dev
 ```
 
 ### ⚙️ Technologies Used
-🧠 React.js – Frontend UI framework
+
+- 🧠 React.js – Frontend UI framework
 
 - 🛠️ Vite – Fast build tool
 
