@@ -1,6 +1,5 @@
 ### <h1 align="center">🌿 Springreen</h1>
----
----
+<!-- 👇 Blank line here -->
 This is the official frontend project for **Springreen** — a platform that helps streamline eco-friendly services (or business-specific description, you can customize this line).
 
 ---
