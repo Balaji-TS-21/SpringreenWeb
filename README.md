@@ -1,7 +1,6 @@
 ### <h1 align="center">🌿 Springreen</h1>
-
-
-
+---
+---
 This is the official frontend project for **Springreen** — a platform that helps streamline eco-friendly services (or business-specific description, you can customize this line).
 
 ---
@@ -17,15 +16,21 @@ git clone https://github.com/Balaji-TS-21/SpringreenWeb.git
 cd SpringreenWeb
 ```
 
+---
+
 ### 📥 Install Dependencies
 ```bash
 npm install
 ```
 
+---
+
 ### ▶️ Start the Development Server
 ```bash
 npm run dev
 ```
+
+---
 
 ### ⚙️ Technologies Used
 
@@ -39,6 +44,7 @@ npm run dev
 
 - 🧾 Axios – API requests
   
+---
 
 ### 👨‍💻 Collaborators
 
