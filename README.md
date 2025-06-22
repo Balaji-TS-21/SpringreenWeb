@@ -1,0 +1,44 @@
+### 🌿 Springreen Web
+
+This is the official frontend project for **Springreen** — a platform that helps streamline eco-friendly services (or business-specific description, you can customize this line).
+
+---
+
+### 📦 How to Run Locally
+
+Follow the steps below to set up and run the project on your local machine.
+
+### 🔁 Clone the Repository
+
+```bash
+git clone https://github.com/Balaji-TS-21/SpringreenWeb.git
+cd SpringreenWeb
+```
+
+### 📥 Install Dependencies
+```bash
+npm install
+```
+
+### ▶️ Start the Development Server
+```bash
+npm run dev
+```
+
+### ⚙️ Technologies Used
+🧠 React.js – Frontend UI framework
+
+🛠️ Vite – Fast build tool
+
+💅 Tailwind CSS – Utility-first CSS framework
+
+🔗 React Router – Routing
+
+🧾 Axios – API requests
+
+### 👨‍💻 Collaborators
+
+| Name        | Role                  | GitHub Profile                                           |
+|-------------|-----------------------|----------------------------------------------------------|
+| Balaji T S  | Frontend Developer    | [@Balaji-TS-21](https://github.com/Balaji-TS-21)         |
+| Balzandras  | Contributor / Support | [@Balzandras](https://github.com/Balzandras)             |
