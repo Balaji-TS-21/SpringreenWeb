@@ -59,7 +59,7 @@ const Header = () => {
                   }}
                   className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
                     isActive(item.href)
-                      ? 'bg-white bg-opacity-30 text-white hover:text-black'
+                      ? 'bg-white bg-opacity-30 text-black hover:text-black'
                       : 'text-white hover:bg-white hover:bg-opacity-10 hover:text-white'
                   }`}
                 >

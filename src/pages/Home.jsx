@@ -189,7 +189,7 @@ const Home = () => {
           <div className="flex flex-col md:flex-row md:space-x-6 space-y-6 md:space-y-0">
             {testimonials.map((testimonial) => (
               <div key={testimonial.id} className="bg-white p-6 rounded-lg shadow-md text-center">
-                <p className="text-gray-700 italic mb-4">"{testimonial.content}"</p>
+                <p className="text-gray-700 italic mb-4">{testimonial.content}</p>
                 <h4 className="text-lg font-semibold text-gray-900">{testimonial.author}</h4>
                 <p className="text-sm text-gray-500">{testimonial.position}</p>
               </div>
