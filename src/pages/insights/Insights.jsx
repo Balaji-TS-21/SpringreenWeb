@@ -70,8 +70,8 @@ const handleSubmit = (e) => {
     return (
         <div className="insight-wrapper">
             <div className="feature">
-                <h1 style={{fontWeight:"bold",fontSize:"37px",marginBottom:"15px"}}>Featured insights</h1>
-             <p>Discover our latest research, innovations, and insights in sustainable IT solutions and technological advancements</p>
+                <h1 style={{fontWeight:"bold",fontSize:"35px",marginBottom:"15px"}}>Featured insights</h1>
+             <p>Discover our latest research, innovations, and insights in sustainable IT solutions and technological <br /> advancements</p>
             </div>
              <div>
                 <input type="search" placeholder="search insights..." className="insight-search" value={text} onChange={(e)=>{setText(e.target.value)}} />
@@ -120,13 +120,13 @@ const handleSubmit = (e) => {
                 </div>
              </div>
 
-             <section className="py-10 bg-white-600 text-black">
+             <section className="py-10 bg-white-600 text-black ">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="animate-slide-up">
             <h2 className="text-3xl md:text-2xl font-bold mb-5">
               Get a Callback from Springreen
             </h2>
-            <form onSubmit={handleSubmit} className="max-w mx-auto flex gap-2 text-center">
+            <form onSubmit={handleSubmit} className="flex">
               <input
               style={{marginLeft:"100px",border:"1px solid black"}}
                 type="email"
@@ -134,17 +134,17 @@ const handleSubmit = (e) => {
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="Enter your email here"
                 required
-                className=" w-[600px] px-4 py-3 rounded-lg text-black-100 focus:outline-none  bg-white"
+                className=" w-[530px] px-4 py-1 rounded-lg text-black-100 focus:outline-none  bg-white"
               />
               <button
                 type="submit"
-                className="bg-primary-800 text-white px-8 py-3 rounded-lg font-semibold hover:bg-primary-900 transition-all duration-300 hover:scale-105"
+                className="bg-primary-800 text-white px-3 py-2 rounded-lg font-semibold hover:bg-primary-900 transition-all duration-300 hover:scale-105"
               >
                 Submit
               </button>
               
             </form>
-            <p className="text-sm text-danger-100 mb-8 mt-3">
+            <p className="text-sm text-danger-100  mt-3">
               Lorem ipsum dolor sit amet consectetur. Dictumst nisl orci nam tortor fusce donec viverra id.
             </p>
           </div>
