@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home';
+import Contact from './pages/Contact';
 import './App.css';
 import Insights from './pages/insights/Insights';
 
@@ -15,7 +16,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/insights" element={<Insights />} />
             <Route path="/" element={<Home />} />
-            <Route path="/" element={<Home />} />
+            <Route path="/contact" element={<Contact />} />
             <Route path="/" element={<Home />} />
           </Routes>
         </main>
