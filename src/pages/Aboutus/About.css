@@ -1,0 +1,134 @@
+
+.about-wrapper{
+     padding: 100px 20px;
+  margin: 0 auto;
+  max-width: 1200px;
+  box-sizing: border-box;
+}
+.image-wrapper{
+    background-image: url("../Aboutus/aboutimage.png");
+   background-size: cover;
+   background-position: center;
+    background-repeat: no-repeat;
+    height: 380px;
+    width: 1000px;
+    margin: 20px auto;
+    border: 10px solid #003934;
+    border-radius: 30px;
+
+}
+.gray-card{
+    background-color: #FFFFFF80;
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+    margin-top: 35px;
+    margin-left: 20px;
+    backdrop-filter:blur(10px);
+    padding: 20px;
+    color:#003934;
+}
+.milestones{
+    margin: 100px;
+    text-align: center;
+}
+.milestones h1{
+    font-weight: bold;
+    font-size: 30px;
+}
+.mile-cards{
+    width: 150px;
+  height: 100px;
+  background:linear-gradient(to bottom right,white,#E9E9E9);
+  backdrop-filter: blur(50px);
+  text-align: center;
+  border-radius: 15px;
+  box-shadow:0 0 10px gainsboro;
+  padding: 20px;
+  
+  
+}
+
+.mile-cards h1{
+  font-size: 30px;
+  font-weight: 500;
+  margin: 0;
+  color: #000;
+}
+
+.mile-cards p {
+  font-size: 14px;
+  color: #444;
+  margin-top: 5px;
+}
+.mile-cards-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.testimonial-wrapper {
+  overflow: hidden;
+  width: 100%;
+ 
+  
+}
+
+.testimonial-track {
+  display: flex;
+  justify-content: center;
+  width: max-content;
+  animation: slide 25s linear infinite;
+ flex-wrap: wrap;
+ gap: 20px;
+
+}
+
+.testimonial {
+  width: 350px;
+  height: 200px;
+  background: #ECECEC;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  color: #333;
+  font-size: 16px;
+  position: relative;
+}
+
+.testimonial::after {
+  content: "❞";
+  font-size:30px;
+  color: teal;
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.trend{
+ 
+  background-color: #ECECEC;
+  width: 100%;
+  height: 300px;
+  margin: 20px auto;
+  margin-top: 150px;
+  padding: 50px 50px;
+  text-align: start;
+}
+.design h1{
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 30px;
+
+}

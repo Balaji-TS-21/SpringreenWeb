@@ -132,7 +132,7 @@ const Home = () => {
               We have been running many successful business studios.
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              It's crafted with the latest trend of design & coded with all modern approaches. It's a robust & multi-dimensional usable template.
+              It s crafted with the latest trend of design & coded with all modern approaches. It s a robust & multi-dimensional usable template.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
