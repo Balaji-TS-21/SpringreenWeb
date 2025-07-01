@@ -41,7 +41,7 @@ const Header = () => {
             {/* Logo */}
             <Link to="/" className="flex items-center space-x-2 ">
               <div className={`font-bold transition-all duration-[300ms] ${
-                isScrolled ? 'text-3xl' : 'text-3xl'
+                isScrolled ? 'text-3xl' : 'text-3xl '
               } text-white`}>
                 Springreen
               </div>
@@ -57,7 +57,7 @@ const Header = () => {
                     // Scroll to top when navigating
                     window.scrollTo({ top: 0, behavior: 'smooth' });
                   }}
-                  className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
+                  className={`px-3 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
                     isActive(item.href)
                       ? 'bg-white bg-opacity-30 text-black hover:text-black'
                       : 'text-white hover:bg-white hover:bg-opacity-10 hover:text-white'
@@ -76,7 +76,7 @@ const Header = () => {
                   window.scrollTo({ top: 0, behavior: 'smooth' });
                 }}
                 className={`bg-white text-primary-600 rounded-lg font-medium hover:bg-opacity-90 transition-all duration-200 hover:scale-105 pulse-on-hover ${
-                  isScrolled ? 'px-4 py-2 text-sm' : 'px-6 py-2.5 text-sm'
+                  isScrolled ? 'px-4 py-2 text-sm ml-8' : 'px-6 py-2.5 text-sm'
                 }`}
               >
                 Action
